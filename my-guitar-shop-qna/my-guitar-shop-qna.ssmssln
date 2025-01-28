@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "my-guitar-shop-qna", "my-guitar-shop-qna\my-guitar-shop-qna.ssmssqlproj", "{B2F1BA62-6CBE-435E-87AF-480C75C3670D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F1BA62-6CBE-435E-87AF-480C75C3670D}.Default|Default.ActiveCfg = Default
+		{A12B8EA1-596B-4ADF-9380-E69EBB079BB8}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5031C92-35EE-4F5F-9BCE-9FA9D7BBBB77}
+	EndGlobalSection
+EndGlobal
